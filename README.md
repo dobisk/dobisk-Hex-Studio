@@ -1,4 +1,5 @@
-# Hex-Studio
+# Hex-Studio- !!!!OG by Master_Bw3!!!!
+This is a quite pathetic attempt at trying to make this work at school lol
 An IDE for hexcasting\
 https://master-bw3.github.io/Hex-Studio/
 ## Features
